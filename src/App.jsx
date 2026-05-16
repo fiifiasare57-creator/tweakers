@@ -1,7 +1,7 @@
- import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import VideoFeed from './components/VideoFeed';
 import UploadPage from './pages/Upload';
-import { PlusCircle, Home } from 'lucide-react';
+import { Home, PlusCircle } from 'lucide-react';
 
 function App() {
   return (
